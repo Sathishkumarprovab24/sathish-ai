@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Secrets
+.env
+
+# User content and runtime data
+uploads/
+data/
+public/data/
+
+# Editor / OS
+.codex
+.DS_Store
+Thumbs.db
